@@ -4,7 +4,6 @@ Welcome to the *Happy Da Dhaba* 🌟 – a vibrant, scrollable, single-page webs
 
 
 ---
-
 ## 📸 Features
 
 ✨ Smooth scroll navigation  
