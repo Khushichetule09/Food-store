@@ -30,9 +30,3 @@ Welcome to the *Happy Da Dhaba* 🌟 – a vibrant, scrollable, single-page webs
 
 
 ---
-
-🧑‍💻 Author
-
-Designed & Developed by Khushi
-🔗 GitHub("https://github.com/khushichetule09")
-🔗 LinkedIn("https://www.linkedin.com/in/khushi-chetule-761b50328")
